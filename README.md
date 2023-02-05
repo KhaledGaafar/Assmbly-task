@@ -1,5 +1,5 @@
 # Name of Project:
-       The code for the atrophy disease test page
+       Disease prediction (muscular dystrophy).
 # About Code:
 This code is for the muscular dystrophy test page, where it displays some questions related to the symptoms of the disease and, based on the answers yes or no, predicts the possibility of the disease.
 # Technology used:
